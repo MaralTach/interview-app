@@ -5,7 +5,7 @@
 }
 
 body{
-
+  background: linear-gradient(45deg, #16367c 0%, #25aed4 100%);
 }
 
 .header{
@@ -17,7 +17,7 @@ body{
 }
 
 .question-answer-card{
-  
+  background-color: rgb(219, 226, 232);
   width: 800px;
   margin: 20px auto;
   box-shadow: 4px 4px 30px;
